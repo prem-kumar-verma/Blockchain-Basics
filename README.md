@@ -4,83 +4,56 @@ Welcome to the **Blockchain Basics and Introduction** repository! 🚀 This repo
 
 ## 📌 Table of Contents
 
-1. [Introduction to Blockchain](#introduction-to-blockchain)
-2. [How Blockchain Works](#how-blockchain-works)
-3. [Types of Blockchain](#types-of-blockchain)
-4. [Consensus Mechanisms](#consensus-mechanisms)
-5. [Cryptographic Fundamentals](#cryptographic-fundamentals)
-6. [Smart Contracts](#smart-contracts)
-7. [Decentralized Applications (DApps)](#decentralized-applications-dapps)
-8. [Use Cases of Blockchain](#use-cases-of-blockchain)
-9. [Future of Blockchain](#future-of-blockchain)
-10. [Resources](#resources)
+1. [Module A: Blockchain Fundamentals](#module-a-blockchain-fundamentals)
+2. [Module B: Bitcoin and Transactions](#module-b-bitcoin-and-transactions)
+3. [Module C: Ethereum and Advanced Concepts](#module-c-ethereum-and-advanced-concepts)
+4. [Use Cases of Blockchain](#use-cases-of-blockchain)
+5. [Future of Blockchain](#future-of-blockchain)
+6. [Resources](#resources)
 
 ---
 
-## 🏆 Introduction to Blockchain
-Blockchain is a decentralized, distributed ledger technology that records transactions across multiple computers securely and transparently. It is the backbone of cryptocurrencies like Bitcoin and Ethereum.
+## 🏆 Module A: Blockchain Fundamentals
+This module covers the core principles of blockchain technology.
 
-### 🔥 Key Features:
-- **Decentralization**: No single authority controls the network.
-- **Transparency**: Publicly verifiable transactions.
-- **Immutability**: Data cannot be altered once recorded.
-- **Security**: Uses cryptographic techniques to protect data.
-
----
-https://www.linkedin.com/in/0xpr3m/
-## 🔗 How Blockchain Works
-Blockchain operates through a series of blocks, each containing a set of transactions. These blocks are linked together using cryptographic hashes.
-
-### 🚀 Process:
-1. **Transaction Initiation**: A transaction is created and broadcasted to the network.
-2. **Validation**: Nodes validate transactions using consensus mechanisms.
-3. **Block Formation**: Transactions are grouped into blocks.
-4. **Chain Linking**: Blocks are added to the blockchain with a cryptographic hash of the previous block.
+### 🔥 Topics:
+- **What is Blockchain?**
+- **Hashing Algorithm**
+- **Immutable Ledger**
+- **Distributed P2P Networks**
+- **What is Mining?**
+- **Consensus Protocol**
 
 ---
 
-## 🏛 Types of Blockchain
-1. **Public Blockchain** (e.g., Bitcoin, Ethereum)
-2. **Private Blockchain** (e.g., Hyperledger, Corda)
-3. **Consortium Blockchain** (e.g., Banking & Enterprise use cases)
-4. **Hybrid Blockchain** (Combination of Public & Private)
+## 🔗 Module B: Bitcoin and Transactions
+Bitcoin is the first and most well-known cryptocurrency. This module explores its fundamentals.
+
+### 🚀 Topics:
+- **Bitcoin**
+- **Bitcoin's Monetary Policy**
+- **Mining**
+- **Nonce**
+- **CPU/GPU/ASICs**
+- **Mempool**
+- **Transactions**
+- **Wallets**
+- **Public and Private Key**
 
 ---
 
-## ⚙️ Consensus Mechanisms
-Blockchain relies on consensus algorithms to validate transactions. Some common ones include:
-- **Proof of Work (PoW)** – Used in Bitcoin.
-- **Proof of Stake (PoS)** – Used in Ethereum 2.0.
-- **Delegated Proof of Stake (DPoS)** – Used in EOS.
-- **Proof of Authority (PoA)** – Used in private blockchains.
+## 🏛 Module C: Ethereum and Advanced Concepts
+Ethereum introduced smart contracts and decentralized applications (DApps). This module covers Ethereum's ecosystem.
 
----
-
-## 🔐 Cryptographic Fundamentals
-Blockchain uses cryptography for security and integrity.
-- **Hashing**: SHA-256 in Bitcoin.
-- **Public & Private Keys**: Asymmetric encryption for transactions.
-- **Digital Signatures**: Ensuring data authenticity.
-
----
-
-## 💡 Smart Contracts
-Smart contracts are self-executing contracts with the terms directly written into code. Platforms like **Ethereum** enable smart contract functionality using **Solidity**.
-
-### 🛠 Examples:
-- **Financial Transactions**
-- **Decentralized Voting Systems**
-- **Automated Agreements**
-
----
-
-## 🌍 Decentralized Applications (DApps)
-DApps run on blockchain networks and leverage smart contracts to operate without intermediaries.
-
-### Examples:
-- **Uniswap** (Decentralized Exchange)
-- **Aave** (DeFi Lending)
-- **OpenSea** (NFT Marketplace)
+### 🔥 Topics:
+- **What is Ethereum?**
+- **Smart Contracts**
+- **DApps (Decentralized Applications)**
+- **EVM and Gas**
+- **DAOs (Decentralized Autonomous Organizations)**
+- **Hard Fork and Soft Fork**
+- **DAO Attack**
+- **Alt Coins**
 
 ---
 
@@ -111,6 +84,6 @@ Blockchain continues to evolve, with innovations like:
 Feel free to contribute to this repository by submitting pull requests and opening issues!
 
 ### 📧 Contact
-If you have any questions, reach out at [prem.nfsu@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/0xpr3m/).
+If you have any questions, reach out at [your_email@example.com] or connect on [LinkedIn](https://linkedin.com/yourprofile).
 
 Happy Learning! 🚀
