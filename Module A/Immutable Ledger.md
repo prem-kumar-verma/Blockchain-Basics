@@ -1,6 +1,7 @@
 # Immutable Ledger
 
 ## Introduction
+
 An immutable ledger ensures that once a transaction is recorded on the blockchain, it cannot be altered or deleted.
 
 ## Why is Immutability Important?
